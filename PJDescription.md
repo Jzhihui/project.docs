@@ -6,9 +6,16 @@
 > 
 > - 2. 岗位要求
 >> - 2.1 计算机、通讯、微电子、自动化、IC设计、应用数学等相关专业本科及以上学历；
->> - 2.2 掌握C++语言（智能指针，boost库，STL库，Qt库），掌握Visual Studio集成开发环境【IDE】（其中{Visual Studio 2010，Visual Studio 2013, Visual Studio 2015}任何一个皆可）；
->> - 2.3 掌握linux操作系统【CentOS，RedHat，ubuntu】（bash 脚本【 grep, find，awk，vi】），掌握python语言（XML, PIPE, RE, cython），掌握跨平台编译（GCC，CMake，GDB【加分项】），使用过版本管理工具（Git）；
->> - 2.4 思路清晰，学习兴趣强，有责任心，具备一定的表达能力；工作有热情，吃苦耐劳，具有良好的团队合作精神和合作意识；具备独立解决问题的能力；
+>> - 2.2 掌握C++语言（智能指针，boost库，STL库，Qt库）；
+>>  - 2.2.1 掌握Visual Studio集成开发环境（Visual Studio 2010，Visual Studio 2013, Visual Studio 2015，Visual Studio 2017等）；
+>> - 2.3 掌握linux操作系统【CentOS】
+>>  - 2.3.1 使用过（1. bash 脚本， 2. 基本命令【 grep, find，awk】， 3. 基本工具【vi， gedit】）
+>>  - 2.3.2 掌握python语言（XML, PIPE, RE, cython）
+>>  - 2.3.3 掌握跨平台编译（GCC，CMake，GDB【加分项】）
+>>  - 2.3.4 使用过版本管理工具（Git）；
+>> - 2.4 思路清晰，学习兴趣强，有责任心，具备一定的表达能力；
+>>  - 2.4.1 工作有热情，吃苦耐劳，具有良好的团队合作精神和合作意识；
+>>  - 2.4.2 具备独立解决问题的能力；
 >> - 2.5 热忱欢迎应届毕业生的踊跃加入；
 >> - 2.6 有virtuoso【skill】和calibre使用经验者更佳（加分项）
 
@@ -20,7 +27,8 @@
 >
 > - 2. 岗位要求
 >> - 2.1 计算机、通讯、微电子、自动化、IC设计、应用数学等相关专业本科及以上学历；
->> - 2.2 熟练掌握C++语言(智能指针，boost库，STL库，Qt库)和IDE工具（Visual Studio[2010,2013,2015] ），熟悉linux操作系统环境(CentOS,RedHat,Ubuntu)[bash脚本{grep,find,awk,vi}命令]{GCC,GDB,CMake}，熟练掌握版本管理(Git)、缺陷管理(bugzilla)和项目管理工具(禅道)，熟悉敏捷开发流程（Scrum，迭代开发）
+>> - 2.2 熟练掌握C++语言(智能指针，boost库，STL库，Qt库)和IDE工具（Visual Studio）
+>>> - 2.2.0 熟悉linux操作系统环境(CentOS)，熟练掌握版本管理(Git)、缺陷管理(bugzilla)和项目管理工具(禅道)，熟悉敏捷开发流程（Scrum，迭代开发）
 >>> - 2.2.1 额外的加分项，需求分析工具（Axure，prototype designer），软件设计工具（UML，Visio，Rose），软件自动化测试平台（jmeter，selenium），掌握软件的设计模式（工厂模式，策略模式，单例模式）
 >>> - 2.2.2 使用virtuoso【skill】和calibre做过layout（版图）的研发者更佳（加分项）
 
