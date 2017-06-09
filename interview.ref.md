@@ -1,5 +1,6 @@
 `【态度（活跃|求知|学习）/能力（cpp/vs, linux/gcc/cmake, EDA/半导体）】`
 <!-- 企业文化，专心致志的工作、学习、锻炼身体，不能混日子， 喜欢一些有挑战性的工作， 不能耽误时间 -->
+<!-- 从细节看问题，不抽烟，住的相对不太远 -->
 ### 软件工程师 （基本技能）
 <!-- 我们愿意培训和培养，但是需要确定是个好苗子， 岗位需求和薪资待遇 -->
 <table border="1">
@@ -14,7 +15,7 @@
  </tr> 
 
 <tr>
-<td> <pre>2. 对OO语言的掌握程度，C/C++，Python；
+<td> <pre>2. 对OO语言的掌握程度，C/C++（boost，stl，Qt），Python（cython）；
     2.1 代码（思考，提问，学习方法【轨迹】）
     2.2 代码（读，写）【学习能力和潜力】
     2.3 多问【用心】，多说【认真】，多引导【学习兴趣】
@@ -27,7 +28,7 @@
 <pre>3. IDE环境，Visual Studio 搭建，配置；
 3.1 版本管理工具，Git；【代码的管理】
 3.2 缺陷管理工具，Bugzilla；【bug的生命周期】
-3.3 项目管理工具，zentao，TFS；【项目生命周期】
+3.3 项目管理工具，zentao，TFS，JIRA；【项目生命周期】
 3.4 产品设计工具，Axure，prototype；【产品生命周期】
 </td>   
 <td></td>
@@ -47,7 +48,7 @@
  </tr>
 
 <tr>
-<td>6. 脚本语言和操作系统（windows/batch cmd/power shell/vbscript）；（Linux/Unix， bash， python，perl/基础命令VIM，AWK），基本的软件使用（GCC，Cmake）</td>   
+<td>6. 脚本语言和操作系统（windows/batch cmd/power shell/vbscript）；（Linux/Unix， bash， python，perl/基础命令vim,awk,grep），基本的软件使用（gcc,Cmake,GDB）</td>   
 <td></td>
  <td> </td>
  </tr>
@@ -100,13 +101,13 @@
 
 <tr>
 <td>2. 产品的分析【需求工程】，产品的设计【UI设计，接口设计，文档设计，数据设计】，【设计模式的掌握，设计工具的掌握】，【产品的功能验证，性能指标确定】，【项目收尾和产品升级】 <br/>
-2.1 对OO语言的掌握程度，C++，STL，boost，RE，图论，并行计算，网络编程，线程编程（锁机制），进程通讯，多平台编程；</td>   
+2.1 对OO语言的掌握程度，C++【Qt，STL，boost】，Python【XML，RE，进程通讯】，算法和数据结构【图论，网络编程，线程编程（锁机制），并行计算】，linux环境【多平台编程，GCC，Cmake，GDB】；</td>   
 <td></td>
  <td> </td>
  </tr>
 
 <tr>
-<td>3. IDE环境，VS搭建，配置，插件使用，交叉编译；版本工具，Git，VSS，SVN，CVS；缺陷工具，Bugzilla，Clear Case，perforce；项管工具，zentao，TFS，JIRA；产品工具，Axure，prototype；配置工具，maven， ant， cmake， make</td>   
+<td>3. IDE环境【VS搭建，配置，插件使用，交叉编译】；版本工具【Git，VSS，SVN，CVS】；缺陷工具【Bugzilla，Clear Case，perforce】；项管工具【zentao，TFS，JIRA】；产品工具【Axure，prototype】；配置工具【maven， ant， cmake， make】</td>   
 <td></td>
  <td> </td>
  </tr>
